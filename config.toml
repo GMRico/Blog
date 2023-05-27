@@ -1,0 +1,4 @@
+baseURL = "https://gmrico.github.io/"
+languageCode = "en-us"
+title = "Rico Blog"
+theme = "paper"
